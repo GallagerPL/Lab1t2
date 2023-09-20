@@ -19,6 +19,8 @@ class Program
         for (int i = 0; i < 16; i++)
         {
            Console.WriteLine(D[i]);
+           Console.WriteLine(D[i]);
+           Console.WriteLine(D[i]);
         }
     }
 }
